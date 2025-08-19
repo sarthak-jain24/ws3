@@ -1,0 +1,7 @@
+﻿"ApplicantUserGUID","UserFirstName","UserMiddleName","UserLastName","UserNameSuffix","ApplicantCurrentStatus","ApplicantDateHired","RequisitionDivision","RequisitionDivisionID","RequisitionPosition","RequisitionPositionID","OfferLetterHourlyRate","ManagerUserName","ManagerUserFullName"
+"662A3E75-0668-4949-ADFA-85C19EDCFC15","Scooby Doo","","Tester","","Hired","08/04/2025 06:42 PM","Administrative Services","250-1221","Accountant, DHHS","10019748","20.00","",""
+"5CD72E6E-6C0E-4C91-AC0A-9A1E6861CFEB","Jane","","Doe","","Hired","08/15/2025 08:20 PM","Generic Division","","Business Analyst","10019682","50.00","",""
+"5BEF2A45-A027-4BD8-AD44-A8611D0698AA","Tommy","","Pickles","","Hired","08/12/2025 10:02 PM","Dept of Government Operations","150","Business Analyst","10019682","35.00","189148","Hargis, Gregory"
+"5E73D29C-9008-460F-9030-EB08DF1805A5","Colleen","","Abate","","Hired","08/15/2025 09:07 PM","DPS Commissioner's Office","180-1111","Deputy Commissioner - Public Safety - POST","10012819","100.00","HiringManager","Recruiting, HiringManager"
+"97A0666D-D948-4DFA-9B87-FA7ECF8C4F13","Jack Sparrow","","Tester","","Hired","08/07/2025 08:39 PM","Generic Division","","Financial Manager I","48010371","25.00","HiringManager","Recruiting, HiringManager"
+"97A0666D-D948-4DFA-9B87-FA7ECF8C4F13","Jack Sparrow","","Tester","","Hired","08/15/2025 09:24 PM","Generic Division","","Arts Program Specialist","71010102","","HiringManager","Recruiting, HiringManager"
